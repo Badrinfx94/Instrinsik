@@ -1,0 +1,12 @@
+{
+  "name": "truckjeeAssign",
+  "displayName": "truckjeeAssign",
+  "expo": {
+    "name": "truckjeeAssign",
+    "slug": "truckjeeAssign",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
